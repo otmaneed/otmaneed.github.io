@@ -1,0 +1,86 @@
+.page{
+    width: 800px;
+    margin: auto;
+    font-family: 'Source sans Pro' ,Calibri ,tahoma ,sans-serif ;
+    font-size: 16px;
+   
+}
+.body{
+     border: 0.5 solid blue ;
+}
+
+.infophoto{
+    height: 250px;
+  
+    
+}
+.info , .adresse{
+      background-color:darkgray;
+    float: left;
+  
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 35px;
+}
+.photo{
+     overflow:hidden;
+    border-radius:100px;
+    border-radius:100px;
+    border-radius:100px;
+    width:200px;
+    height:200px;
+    float: right;
+    border: 1.5px solid  rgb(17, 8, 70)
+}
+.section{
+    margin-bottom: 100px;
+    text-align: justify;
+}
+.sec-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.sec_droite{
+    margin-left: 300px;
+    margin-top: 40px;
+     
+  
+}
+h2{
+    font-size: 28px;
+    color: dimgrey ;
+    border-bottom: 2.5px solid dimgrey ;
+        
+}
+.titre{
+    font-weight: bold;
+    font-size: 20px;
+}
+#format-gauche p{
+    margin-bottom: 30px;
+}
+#langue{
+    padding-top: 5px;
+}
+
+.xp .line .clmn {
+    /*border: 1px solid black;
+    border-collapse: collapse;*/
+}
+
+.clmn1 {
+    padding: 0px;
+    width: 315px;
+    vertical-align: top;
+}
+
+.clmn2 {
+    padding: 0px;
+    vertical-align: top;
+}
+.photo img{
+    width: 204px;
+    height: 235px;
+}
